@@ -134,5 +134,7 @@ This project demonstrates how to use SQL for exploratory data analysis on COVID-
 
 ## Future Work
 **Further Analysis:** Expand the analysis to include more metrics and deeper insights.
+
 **Data Visualization:** Use tools like Tableau or Power BI to create interactive dashboards based on the results of these queries.
+
 **Automation:** Automate the data extraction and analysis process for real-time insights.
