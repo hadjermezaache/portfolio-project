@@ -122,13 +122,13 @@ SELECT * FROM PercenttPopulationVaccinated;
 
 
 **Illustration 1:** Total Cases vs Total Deaths
-
+![total death vstotal cases](https://github.com/user-attachments/assets/fabcbb97-46ed-4f78-ba57-7e9f1edc1277)
 
 **Illustration 2:** Total Cases vs Population
-
+![total cases vs population](https://github.com/user-attachments/assets/3f670b7a-a3a9-4a09-a642-0b5f99e4ab3c)
 
 **Illustration 3:** Countries with Highest Infection Rate Compared to Population
-
+![countries with hughest infection rate compared to population](https://github.com/user-attachments/assets/8b6f0741-4790-49ab-88fe-222b49061bce)
 ## Conclusion
 This project demonstrates how to use SQL for exploratory data analysis on COVID-19 data. By querying and analyzing the data, we can gain insights into infection rates, death rates, and vaccination progress across different regions. The use of views, CTEs, and temporary tables helps organize and calculate data for more complex analyses and visualizations.
 
